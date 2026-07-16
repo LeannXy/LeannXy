@@ -13,7 +13,7 @@ if (!source) {
 
 try {
   const outputDirectory = resolve(repositoryRoot, "docs/assets");
-  const config = await loadConfig(resolve(repositoryRoot, "examples/wildan.config.json"));
+  const config = await loadConfig(resolve(repositoryRoot, "identity/Leann.config.json"));
   const manifest = await generateHeroAssets({ config, sourcePath: resolve(source), outputDirectory });
   const stableNames = {
     desktopDark: "demo-dark.svg",
