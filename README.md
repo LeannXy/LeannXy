@@ -45,7 +45,9 @@ I am dedicated to mastering full-stack web development. I focus on learning how 
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Jul 16, 2026: pushed 1 commit to [LeannXy/LeannXy](https://github.com/LeannXy/LeannXy).
+- Jul 15, 2026: created a branch in [LeannXy/LeannXy](https://github.com/LeannXy/LeannXy).
+- Jun 28, 2026: created a branch in [LeannXy/Golang_dasar](https://github.com/LeannXy/Golang_dasar).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
