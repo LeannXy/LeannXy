@@ -47,8 +47,6 @@ I am dedicated to mastering full-stack web development. I focus on learning how 
 <!-- AUTO:ACTIVITY:START -->
 - Aug 11, 2026: pushed 1 commit to [LeannXy/game_balap_gemini](https://github.com/LeannXy/game_balap_gemini).
 - Aug 11, 2026: created a branch in [LeannXy/game_balap_gemini](https://github.com/LeannXy/game_balap_gemini).
-- Jul 20, 2026: pushed 1 commit to [LeannXy/Project_Management](https://github.com/LeannXy/Project_Management).
-- Jul 20, 2026: created a branch in [LeannXy/Project_Management](https://github.com/LeannXy/Project_Management).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
