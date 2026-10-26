@@ -45,12 +45,12 @@ I am dedicated to mastering full-stack web development. I focus on learning how 
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 26, 2026: pushed 1 commit to [LeannXy/Project_Management](https://github.com/LeannXy/Project_Management).
 - Oct 24, 2026: pushed 1 commit to [LeannXy/frontend_portofolio](https://github.com/LeannXy/frontend_portofolio).
 - Oct 22, 2026: created a branch in [LeannXy/backend_portofolio](https://github.com/LeannXy/backend_portofolio).
 - Oct 22, 2026: pushed 1 commit to [LeannXy/backend_portofolio](https://github.com/LeannXy/backend_portofolio).
 - Oct 22, 2026: pushed 1 commit to [LeannXy/frontend_portofolio](https://github.com/LeannXy/frontend_portofolio).
 - Oct 21, 2026: pushed 1 commit to [LeannXy/frontend_portofolio](https://github.com/LeannXy/frontend_portofolio).
-- Oct 21, 2026: created a branch in [LeannXy/frontend_portofolio](https://github.com/LeannXy/frontend_portofolio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
